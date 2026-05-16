@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Fustat:wght@200..800&display=swap');
+
+@import url(https://db.onlinewebfonts.com/c/340730b16e1fc32fe6c5e2ce1d020a54?family=Nohemi+Med);
+@import "tailwindcss";
+
+body{
+  font-family: "Nohemi Med";
+  background-color: #FAFAFA;
+  color: #333333;
+}
+
+
+title{
+  font-family: "Fustat", sans-serif;
+  font-weight: 500;
+  font-style: medium;
+  font-size: normal;
+  font-family: Fustat;
+  color: #333333;
+}
